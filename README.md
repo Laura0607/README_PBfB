@@ -5,6 +5,3 @@ PBfB2018
 
 [Link to a PDF file Colormap](/colormap.pdf)
 
-proselint my_prose.md
-
-./check_dead_links
