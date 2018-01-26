@@ -1,6 +1,7 @@
 install:
   - sudo pip install proselint
 
+
 script: 
 - proselint my_prose.md
 
@@ -10,3 +11,4 @@ install:
 
 script: 
 - ./check_dead_links
+
